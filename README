@@ -1,0 +1,10 @@
+This is a java implementation of the classic board game stratego. 
+More instructions of how to play the game, as well as the background of the game can be found here: https://www.fgbradleys.com/rules/Stratego.pdf
+An online version of Stratego can be found here: http://www.jayoogee.com/masteroftheflag/game.html
+
+Options in the main menu:
+Q/q: quit the game
+D/d: display the board with all pieces' true identities at any point of the game
+L/l: prompts the user to enter a file name for a previously saved game to be loaded
+S/s: save the current game with a specific file name
+M/m: allows the player whose turn it is to move a piece, the player will enter four numbers, x1, y1, x2, y2, where x1 y1 is the starting coordinate of the piece and x2 y2 is the end point of the piece to be moved.
